@@ -149,18 +149,17 @@ Design Decisions
 - Blue-based color palette to establish trust.
 - Bottom navigation for easy access.
 - Beginner Mode to explain financial terms.
-- AI-powered investment insights.
 - Portfolio Health Score for diversification tracking.
 
 Design System
 
-Primary Color: #2563EB
+Plugin for background:Noise and texture
 
 Success Color: #22C55E
 
 Error Color: #EF4444
 
-Typography: Inter
+Typography:Jost(Semi Bold,Bold)
 
 Corner Radius: 16px
 
